@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:idleread/modals/colors.dart';
 import 'package:idleread/services/firebase_options.dart';
 import 'package:idleread/ui/homescreen.dart';
-import 'package:idleread/ui/readScreen.dart';
 import 'package:idleread/ui/welcome.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
