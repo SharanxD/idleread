@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038782300793",
+    "project_id": "idleread00",
+    "storage_bucket": "idleread00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038782300793:android:2450fb7ba43e08d57c8aa8",
+        "android_client_info": {
+          "package_name": "com.example.idleread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4X1r5SZluw8xv6eQRiMQLOkVbAPzAFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
