@@ -9,7 +9,7 @@ List<Articles> listarticles = [
   Articles(
       name:
           "AI in Indian Libraries: Prospects and Perceptions from Library Professionals",
-      authors: "A. Subaveerapandiyan*, Alfian Akbar Gozali",
+      authors: "A. Subaveerapandiyan, Alfian Akbar Gozali",
       link: "https://files.eric.ed.gov/fulltext/ED640098.pdf"),
   Articles(
       name:
